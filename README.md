@@ -1,0 +1,3 @@
+# tutorial_12
+这是一个python项目使用scrapy框架的下载小说的简单demo。
+其中使用了bs4
